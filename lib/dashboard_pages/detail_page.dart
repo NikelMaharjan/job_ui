@@ -4,9 +4,9 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:job_ui/colors.dart';
-import 'package:job_ui/description_page.dart';
-import 'package:job_ui/overview_page.dart';
+import 'package:job_ui/constants/colors.dart';
+import 'package:job_ui/dashboard_pages/description_page.dart';
+import 'package:job_ui/dashboard_pages/overview_page.dart';
 
 class DetailPage extends StatelessWidget {
   const DetailPage({Key? key}) : super(key: key);

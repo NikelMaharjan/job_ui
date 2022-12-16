@@ -6,8 +6,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:job_ui/dashboard_page.dart';
-import 'package:job_ui/home_page.dart';
+import 'package:job_ui/dashboard_pages/dashboard_page.dart';
+import 'package:job_ui/dashboard_pages/home_page.dart';
 
 void main () async{
 

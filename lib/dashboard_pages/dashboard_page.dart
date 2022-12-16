@@ -5,12 +5,11 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_native_splash/flutter_native_splash.dart';
-import 'package:job_ui/colors.dart';
-import 'package:job_ui/detail_page.dart';
-import 'package:job_ui/home_page.dart';
-import 'package:job_ui/job_list_page.dart';
-import 'package:job_ui/profile_page.dart';
-import 'package:job_ui/success_story_page.dart';
+import 'package:job_ui/constants/colors.dart';
+import 'package:job_ui/dashboard_pages/detail_page.dart';
+import 'package:job_ui/dashboard_pages/home_page.dart';
+import 'package:job_ui/dashboard_pages/profile_page.dart';
+import 'package:job_ui/dashboard_pages/FAQpage.dart';
 
 
 

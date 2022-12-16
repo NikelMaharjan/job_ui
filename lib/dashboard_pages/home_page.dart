@@ -5,10 +5,10 @@ import 'package:cached_network_image/cached_network_image.dart';
 import 'package:carousel_slider/carousel_slider.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:job_ui/colors.dart';
-import 'package:job_ui/detail_page.dart';
-import 'package:job_ui/job_list_page.dart';
-import 'package:job_ui/view_all_category_page.dart';
+import 'package:job_ui/constants/colors.dart';
+import 'package:job_ui/dashboard_pages/detail_page.dart';
+import 'package:job_ui/dashboard_pages/job_list_page.dart';
+import 'package:job_ui/dashboard_pages/view_all_category_page.dart';
 import 'package:job_ui/widgets/app_bar.dart';
 import 'package:get/get.dart';
 

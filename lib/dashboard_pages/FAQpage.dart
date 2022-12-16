@@ -4,7 +4,7 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:job_ui/colors.dart';
+import 'package:job_ui/constants/colors.dart';
 import 'package:job_ui/widgets/app_bar.dart';
 
 class FAQPage extends StatelessWidget {

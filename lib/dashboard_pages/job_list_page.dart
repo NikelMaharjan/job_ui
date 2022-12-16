@@ -3,10 +3,10 @@
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:job_ui/detail_page.dart';
+import 'package:job_ui/constants/colors.dart';
+import 'package:job_ui/dashboard_pages/detail_page.dart';
 import 'package:job_ui/widgets/app_bar.dart';
 import 'package:get/get.dart';
-import 'colors.dart';
 
 class JobListPage extends StatelessWidget {
   const JobListPage({Key? key}) : super(key: key);

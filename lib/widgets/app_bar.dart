@@ -3,7 +3,7 @@
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:job_ui/dashboard_page.dart';
+import 'package:job_ui/dashboard_pages/dashboard_page.dart';
 
 class MyAppBar extends StatelessWidget implements PreferredSizeWidget {
 

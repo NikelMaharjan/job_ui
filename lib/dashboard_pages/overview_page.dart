@@ -2,9 +2,9 @@
 
 
 import 'package:flutter/material.dart';
-import 'package:job_ui/string.dart';
+import 'package:job_ui/constants/string.dart';
 
-import 'colors.dart';
+import '../constants/colors.dart';
 
 class OverView extends StatelessWidget {
   const OverView({Key? key}) : super(key: key);

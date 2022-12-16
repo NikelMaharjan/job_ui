@@ -4,8 +4,8 @@
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:job_ui/colors.dart';
-import 'package:job_ui/string.dart';
+import 'package:job_ui/constants/colors.dart';
+import 'package:job_ui/constants/string.dart';
 
 class DescriptionPage extends StatelessWidget {
    DescriptionPage({Key? key}) : super(key: key);

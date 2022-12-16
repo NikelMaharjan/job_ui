@@ -2,9 +2,9 @@
 
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
-import 'package:job_ui/colors.dart';
+import 'package:job_ui/constants/colors.dart';
 import 'package:get/get.dart';
-import 'package:job_ui/detail_page.dart';
+import 'package:job_ui/dashboard_pages/detail_page.dart';
 
 class ViewAllCategoryPage extends StatelessWidget {
   const ViewAllCategoryPage({Key? key}) : super(key: key);
